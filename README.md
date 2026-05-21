@@ -1,7 +1,9 @@
-Saquarema Verde Online — MVP FRONT-END
+# Saquarema Verde Online — MVP FRONT-END
+
 Aluno: Thiago Felipe Lima Israel
 
-Situação-Problema: Circuito Saquarema Verde
+# Situação-Problema: Circuito Saquarema Verde
+
 O projeto surge da necessidade de um canal centralizado e confiável que reúna informações atualizadas sobre o ecoturismo em Saquarema, especialmente sobre o Parque Estadual da Costa do Sol e a Reserva Ecológica Estadual de Jacarepiá. A proposta é facilitar o acesso a dados relevantes para visitantes, moradores e administradores da região.
 
 Resumo das Tecnologias Utilizadas
