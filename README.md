@@ -1,4 +1,4 @@
-  # Website for Saquarema Verde
+  # Saquarema Verde Online - MVP
   Integrantes:
 •	Thiago Israel
 
