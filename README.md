@@ -35,4 +35,24 @@ O sistema possui:
 •	Interface intuitiva e responsiva
 •	Layout moderno voltado ao ecoturismo
 
+# Fluxo do Usuário
+1.	Usuário acessa a página inicial.
+2.	Navega pelas atrações.
+3.	Consulta trilhas e eventos.
+4.	Visualiza horários e dicas.
+5.	Administrador acessa login.
+6.	Administrador atualiza informações.
+
+# Melhorias Futuras
+•	Integração com banco de dados
+•	Sistema de cadastro de usuários
+•	API meteorológica
+•	Geolocalização de trilhas
+•	Sistema de avaliações
+•	Chat para suporte turístico
+
+# Conclusão
+O MVP “Saquarema Verde Online” oferece uma solução moderna, sustentável e acessível para facilitar o acesso às informações ecológicas e turísticas da cidade.
+A plataforma promove conscientização ambiental, incentiva o ecoturismo e melhora a experiência dos visitantes por meio de uma interface intuitiva e responsiva.
+Além de atender aos requisitos propostos no desafio acadêmico, o projeto também possui potencial para expansão futura e aplicação real no município.
 
