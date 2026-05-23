@@ -6,8 +6,9 @@
   This is a code bundle for Website for Saquarema Verde. The original project is available at https://www.figma.com/design/9giRBWkWMyJtdSNty8cofi/Website-for-Saquarema-Verde.
 
   ## Running the code
-
   
+  GitClone
+  https://github.com/Thiago-Israel/ADSMVPSAQUAVERDE2026.1.git
 
   Run `npm i` to install the dependencies.
 
