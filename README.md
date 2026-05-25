@@ -1,5 +1,6 @@
   # Saquarema Verde Online - MVP
-  Integrantes:
+  Integrante:
+  
 •	Thiago Israel
 
 
